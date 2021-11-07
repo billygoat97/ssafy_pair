@@ -12,3 +12,5 @@
 
 추후계획 = > 음.. 아마 vue js이제 배우고 있으니 그거 적용시키지 않을까..?
 관통 또 진행하면 또 update할 것
+![image](https://user-images.githubusercontent.com/19410415/140634934-13604cc3-199f-4b34-addc-01a8ea80dd4e.png)
+![image](https://user-images.githubusercontent.com/19410415/140634947-d403dc2e-5914-4c68-9c56-1206b1ffa895.png)
